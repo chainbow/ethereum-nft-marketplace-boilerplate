@@ -13,6 +13,12 @@ export const networkCollections = {
       name: "Pixel Show",
       addrs: "0xCA34404dD8Bd6537BE76F3A51B379F8949bD7973",
     },
+    {
+      image:
+        "https://ipfs.moralis.io:2053/ipfs/QmfLbpeVHxReWKNLaXTPcWiafi49eoAL4gRwMGuXtx2Eqe/images/14.png",
+      name: "Fuck",
+      addrs: "0x13840f791635D92a1cFE3C98D670c68415bbF820",
+    },
   ],
 
   "0x1": [
